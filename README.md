@@ -18,7 +18,7 @@ This project contained a series of open-ended requirements which described the p
 
 - **Html** 
 - **CSS**
-- **JavaScript** (The main focus of this project was JavaScript)
+- **JavaScript** 
 
 ## Visit Site
 website 
