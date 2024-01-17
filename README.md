@@ -21,7 +21,7 @@ This project contained a series of open-ended requirements which described the p
 - **JavaScript** 
 
 ## Visit Site
-website 
+https://mikala773.github.io/challenge-project-number-guesser/
 
 ## Contact
 
